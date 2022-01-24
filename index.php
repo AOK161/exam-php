@@ -21,6 +21,7 @@ $resultats = $reponse->fetchAll();
         <button type="button" class="btn btn-primary"><a href="login.php" class="text-white text-decoration-none">Se connecter en tant que sélectionneur</a></button>
     </div>
 <h1>Voici la liste des joueurs qui sont selectionnés pour l'Euro 2021</h1>
+    <h3 class="d-flex justify-content-center my-5">Sélectionneur : Didier DESCHAMPS</h3>
 
     <table class="table">
         <thead>
