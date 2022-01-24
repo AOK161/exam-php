@@ -1,0 +1,32 @@
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+.bgMenu {
+  background-color: #33409b;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav-link {
+  color: #fff !important;
+}
+
+.material-icons home {
+  width: 30px !important;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+}
+
+.yellowLine {
+  background-color: #ffe189;
+  height: 1em;
+}
+
+.star {
+  color: #ffe189 !important;
+}
